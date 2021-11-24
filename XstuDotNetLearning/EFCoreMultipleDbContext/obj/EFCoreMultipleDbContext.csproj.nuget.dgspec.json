@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\安之眼\\Desktop\\学习\\XstuDotNetLearning\\XstuDotNetLearning\\EFCoreMultipleDbContext\\EFCoreMultipleDbContext.csproj": {}
+    "F:\\DotNetProject\\GitHub\\XstuDotNetLearning\\XstuDotNetLearning\\EFCoreMultipleDbContext\\EFCoreMultipleDbContext.csproj": {}
   },
   "projects": {
-    "C:\\Users\\安之眼\\Desktop\\学习\\XstuDotNetLearning\\XstuDotNetLearning\\EFCoreMultipleDbContext\\EFCoreMultipleDbContext.csproj": {
+    "F:\\DotNetProject\\GitHub\\XstuDotNetLearning\\XstuDotNetLearning\\EFCoreMultipleDbContext\\EFCoreMultipleDbContext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\安之眼\\Desktop\\学习\\XstuDotNetLearning\\XstuDotNetLearning\\EFCoreMultipleDbContext\\EFCoreMultipleDbContext.csproj",
+        "projectUniqueName": "F:\\DotNetProject\\GitHub\\XstuDotNetLearning\\XstuDotNetLearning\\EFCoreMultipleDbContext\\EFCoreMultipleDbContext.csproj",
         "projectName": "EFCoreMultipleDbContext",
-        "projectPath": "C:\\Users\\安之眼\\Desktop\\学习\\XstuDotNetLearning\\XstuDotNetLearning\\EFCoreMultipleDbContext\\EFCoreMultipleDbContext.csproj",
-        "packagesPath": "C:\\Users\\安之眼\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\安之眼\\Desktop\\学习\\XstuDotNetLearning\\XstuDotNetLearning\\EFCoreMultipleDbContext\\obj\\",
+        "projectPath": "F:\\DotNetProject\\GitHub\\XstuDotNetLearning\\XstuDotNetLearning\\EFCoreMultipleDbContext\\EFCoreMultipleDbContext.csproj",
+        "packagesPath": "C:\\Users\\aoyun\\.nuget\\packages\\",
+        "outputPath": "F:\\DotNetProject\\GitHub\\XstuDotNetLearning\\XstuDotNetLearning\\EFCoreMultipleDbContext\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\安之眼\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aoyun\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://192.168.1.53:8085/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -41,6 +40,16 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"

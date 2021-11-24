@@ -1,15 +1,22 @@
+using EFCoreMultipleDbContext.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
-
+var configuration = builder.Configuration;
 
 builder.Services.AddControllers();
-
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+//注入数据上下文
+builder.Services.AddDbContext<MainDbContext>(options =>
+{
+    options.UseMySql(configuration.GetConnectionString("MySqlConnectionString"), ServerVersion.Parse("5.7"));
+});
+
+
 var app = builder.Build();
-
-
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
