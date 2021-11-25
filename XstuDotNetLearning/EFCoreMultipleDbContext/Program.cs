@@ -1,5 +1,7 @@
 using EFCoreMultipleDbContext.EntityFrameworkCore;
+using EFCoreMultipleDbContext.Repository;
 using Microsoft.EntityFrameworkCore;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,7 +16,6 @@ builder.Services.AddDbContext<MainDbContext>(options =>
 {
     options.UseMySql(configuration.GetConnectionString("MySqlConnectionString"), ServerVersion.Parse("5.7"));
 });
-
 
 var app = builder.Build();
 if (app.Environment.IsDevelopment())
