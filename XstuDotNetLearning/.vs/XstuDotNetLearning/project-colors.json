@@ -20,7 +20,17 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "杂项文件",
       "ColorIndex": -1
+    },
+    "69edd177-b961-427d-9f0e-134c2c7d9407": {
+      "ProjectGuid": "69edd177-b961-427d-9f0e-134c2c7d9407",
+      "DisplayName": "AutofacDemo",
+      "ColorIndex": 3
+    },
+    "337ecc42-9e0d-4628-9f57-cf5df25c7484": {
+      "ProjectGuid": "337ecc42-9e0d-4628-9f57-cf5df25c7484",
+      "DisplayName": "AutofacDemo",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }
