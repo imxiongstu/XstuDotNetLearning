@@ -9,16 +9,16 @@ namespace EFCoreMultipleDbContext.Controllers
     [Route("[controller]")]
     public class CurdController : ControllerBase
     {
-        private readonly Repository<ApplicationInfo, Guid> _applicationInfoRepository;
-        public CurdController(MainDbContext dbContext)
+        private readonly IRepository<UserInfo> _userInfoRepository;
+        public CurdController(IRepository<UserInfo> userInfoRepository)
         {
-            _applicationInfoRepository = new Repository<ApplicationInfo, Guid>(dbContext);
+            _userInfoRepository = userInfoRepository;
         }
 
         [HttpPost("create")]
-        public async Task<ApplicationInfo> CreateAsync(ApplicationInfo dto)
+        public async Task<UserInfo> CreateUserInfoAsync(UserInfo dto)
         {
-            return await _applicationInfoRepository.CreateAsync(dto);
+            return await _userInfoRepository.CreateAsync(dto);
         }
 
     }

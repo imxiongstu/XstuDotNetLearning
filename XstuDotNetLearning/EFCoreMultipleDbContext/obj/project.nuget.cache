@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gS0sXTGBYPAXDr3r8kKiKj6i7ouQD9k9+K48bGMwKWGm5bIixvthzUwmiwIKnxJ4WzlRehNdK2ITXNN1/nElKQ==",
+  "dgSpecHash": "R/wRhJ4dof700VgpAuvxFVDWyFK6Svx96dthdtRzsUT4/rClyrKRcEfh3ZPF8fXMv2va8111v3b26QXhe4B5Gg==",
   "success": true,
   "projectFilePath": "C:\\Users\\安之眼\\Desktop\\学习\\XstuDotNetLearning\\XstuDotNetLearning\\EFCoreMultipleDbContext\\EFCoreMultipleDbContext.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\安之眼\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\安之眼\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
     "C:\\Users\\安之眼\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\安之眼\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\安之眼\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",

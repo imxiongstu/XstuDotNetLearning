@@ -59,3 +59,12 @@ F:\DotNetProject\GitHub\XstuDotNetLearning\XstuDotNetLearning\EFCoreMultipleDbCo
 F:\DotNetProject\GitHub\XstuDotNetLearning\XstuDotNetLearning\EFCoreMultipleDbContext\obj\Debug\net6.0\scopedcss\bundle\EFCoreMultipleDbContext.styles.css
 F:\DotNetProject\GitHub\XstuDotNetLearning\XstuDotNetLearning\EFCoreMultipleDbContext\obj\Debug\net6.0\EFCoreMultipleDbContext.csproj.CopyComplete
 F:\DotNetProject\GitHub\XstuDotNetLearning\XstuDotNetLearning\EFCoreMultipleDbContext\obj\Debug\net6.0\EFCoreMultipleDbContext.genruntimeconfig.cache
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\EFCoreMultipleDbContext\bin\Debug\net6.0\Humanizer.dll
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\EFCoreMultipleDbContext\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\EFCoreMultipleDbContext\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\EFCoreMultipleDbContext\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\EFCoreMultipleDbContext\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\EFCoreMultipleDbContext\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\EFCoreMultipleDbContext\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\EFCoreMultipleDbContext\bin\Debug\net6.0\Autofac.dll
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\EFCoreMultipleDbContext\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll

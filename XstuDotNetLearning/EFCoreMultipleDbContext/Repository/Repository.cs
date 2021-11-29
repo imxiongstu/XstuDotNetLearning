@@ -2,7 +2,7 @@
 
 namespace EFCoreMultipleDbContext.Repository
 {
-    public class Repository<TEntity, TKey> : IRepository<TEntity, TKey> where TEntity : class
+    public class Repository<TEntity> : IRepository<TEntity> where TEntity : class
     {
         private readonly MainDbContext _mainDbContext;
 
@@ -23,10 +23,6 @@ namespace EFCoreMultipleDbContext.Repository
             throw new NotImplementedException();
         }
 
-        public Task<TEntity> FindAsync(TKey key)
-        {
-            throw new NotImplementedException();
-        }
 
         public Task<TEntity> UpdateAsync(TEntity entity)
         {

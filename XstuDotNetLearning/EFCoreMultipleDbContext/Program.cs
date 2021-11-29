@@ -1,11 +1,19 @@
 using EFCoreMultipleDbContext.EntityFrameworkCore;
 using EFCoreMultipleDbContext.Repository;
 using Microsoft.EntityFrameworkCore;
-
+using Autofac;
+using Autofac.Extensions.DependencyInjection;
+using EFCoreMultipleDbContext;
 
 var builder = WebApplication.CreateBuilder(args);
-
 var configuration = builder.Configuration;
+
+
+builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory(builder =>
+{
+    builder.RegisterModule<AutofacServiceModule>();
+}));
+
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
@@ -23,11 +31,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
-
 app.Run();

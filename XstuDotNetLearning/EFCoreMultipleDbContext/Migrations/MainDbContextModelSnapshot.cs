@@ -37,6 +37,28 @@ namespace EFCoreMultipleDbContext.Migrations
 
                     b.ToTable("ApplicationInfo");
                 });
+
+            modelBuilder.Entity("EFCoreMultipleDbContext.Models.UserInfo", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("char(36)");
+
+                    b.Property<DateTime?>("CreationTime")
+                        .HasColumnType("datetime(6)");
+
+                    b.Property<string>("UserName")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("UserPwd")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("UserInfo");
+                });
 #pragma warning restore 612, 618
         }
     }
