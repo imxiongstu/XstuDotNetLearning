@@ -25,7 +25,12 @@
       "ProjectGuid": "337ecc42-9e0d-4628-9f57-cf5df25c7484",
       "DisplayName": "AutofacDemo",
       "ColorIndex": 3
+    },
+    "b6e1d665-2689-47bd-a679-786e247f9cf0": {
+      "ProjectGuid": "b6e1d665-2689-47bd-a679-786e247f9cf0",
+      "DisplayName": "IdentityServer4Demo",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }
