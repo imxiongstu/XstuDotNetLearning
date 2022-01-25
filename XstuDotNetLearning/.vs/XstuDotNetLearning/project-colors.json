@@ -30,7 +30,42 @@
       "ProjectGuid": "b6e1d665-2689-47bd-a679-786e247f9cf0",
       "DisplayName": "IdentityServer4Demo",
       "ColorIndex": 4
+    },
+    "67d59594-0545-4c3b-8bf8-d3924fe42e63": {
+      "ProjectGuid": "67d59594-0545-4c3b-8bf8-d3924fe42e63",
+      "DisplayName": "BreakpointContinuinglyDemo",
+      "ColorIndex": 5
+    },
+    "c98c1abe-4b4a-4fc6-b228-9b8911effce9": {
+      "ProjectGuid": "c98c1abe-4b4a-4fc6-b228-9b8911effce9",
+      "DisplayName": "InterceptorDemo",
+      "ColorIndex": 6
+    },
+    "a8f43c4b-2d68-4684-9aad-27eebe52741e": {
+      "ProjectGuid": "a8f43c4b-2d68-4684-9aad-27eebe52741e",
+      "DisplayName": "IdentityServer4QuickUI",
+      "ColorIndex": 7
+    },
+    "2eeec1c2-d79f-4275-aadc-5c5f4194acd1": {
+      "ProjectGuid": "2eeec1c2-d79f-4275-aadc-5c5f4194acd1",
+      "DisplayName": "SignalRDemo",
+      "ColorIndex": 8
+    },
+    "dc1c7e1d-4b03-4c8f-b92f-fcf07fa9f35c": {
+      "ProjectGuid": "dc1c7e1d-4b03-4c8f-b92f-fcf07fa9f35c",
+      "DisplayName": "ServiceFound-Getway",
+      "ColorIndex": 9
+    },
+    "9b9595df-760b-4934-b73e-10ae848a8f0d": {
+      "ProjectGuid": "9b9595df-760b-4934-b73e-10ae848a8f0d",
+      "DisplayName": "ConsulDemo",
+      "ColorIndex": 10
+    },
+    "ac62edc8-44a4-46d8-a8ae-6d0abb06861d": {
+      "ProjectGuid": "ac62edc8-44a4-46d8-a8ae-6d0abb06861d",
+      "DisplayName": "ConsulDemo.Console",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 12
 }
