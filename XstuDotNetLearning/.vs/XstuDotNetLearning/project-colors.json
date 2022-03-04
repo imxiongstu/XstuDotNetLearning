@@ -65,7 +65,17 @@
       "ProjectGuid": "ac62edc8-44a4-46d8-a8ae-6d0abb06861d",
       "DisplayName": "ConsulDemo.Console",
       "ColorIndex": 11
+    },
+    "f5d74cd3-6711-4342-9aef-cdf69bee6a29": {
+      "ProjectGuid": "f5d74cd3-6711-4342-9aef-cdf69bee6a29",
+      "DisplayName": "RabbitMQ-Consumer",
+      "ColorIndex": 12
+    },
+    "ccd87ef2-46b6-43e4-a2a1-dc58f5b0a8f1": {
+      "ProjectGuid": "ccd87ef2-46b6-43e4-a2a1-dc58f5b0a8f1",
+      "DisplayName": "RabbitMQ-Producer",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 14
 }

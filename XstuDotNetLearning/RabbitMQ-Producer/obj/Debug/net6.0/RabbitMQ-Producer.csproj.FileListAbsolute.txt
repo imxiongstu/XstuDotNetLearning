@@ -1,0 +1,17 @@
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\RabbitMQ-Producer\bin\Debug\net6.0\RabbitMQ-Producer.exe
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\RabbitMQ-Producer\bin\Debug\net6.0\RabbitMQ-Producer.deps.json
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\RabbitMQ-Producer\bin\Debug\net6.0\RabbitMQ-Producer.runtimeconfig.json
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\RabbitMQ-Producer\bin\Debug\net6.0\RabbitMQ-Producer.dll
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\RabbitMQ-Producer\bin\Debug\net6.0\ref\RabbitMQ-Producer.dll
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\RabbitMQ-Producer\bin\Debug\net6.0\RabbitMQ-Producer.pdb
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\RabbitMQ-Producer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\RabbitMQ-Producer\obj\Debug\net6.0\RabbitMQ-Producer.csproj.AssemblyReference.cache
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\RabbitMQ-Producer\obj\Debug\net6.0\RabbitMQ-Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\RabbitMQ-Producer\obj\Debug\net6.0\RabbitMQ-Producer.AssemblyInfoInputs.cache
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\RabbitMQ-Producer\obj\Debug\net6.0\RabbitMQ-Producer.AssemblyInfo.cs
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\RabbitMQ-Producer\obj\Debug\net6.0\RabbitMQ-Producer.csproj.CoreCompileInputs.cache
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\RabbitMQ-Producer\obj\Debug\net6.0\RabbitMQ-Producer.csproj.CopyComplete
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\RabbitMQ-Producer\obj\Debug\net6.0\RabbitMQ-Producer.dll
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\RabbitMQ-Producer\obj\Debug\net6.0\ref\RabbitMQ-Producer.dll
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\RabbitMQ-Producer\obj\Debug\net6.0\RabbitMQ-Producer.pdb
+C:\Users\安之眼\Desktop\学习\XstuDotNetLearning\XstuDotNetLearning\RabbitMQ-Producer\obj\Debug\net6.0\RabbitMQ-Producer.genruntimeconfig.cache
