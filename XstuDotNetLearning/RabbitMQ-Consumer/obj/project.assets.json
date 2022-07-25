@@ -8,27 +8,27 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\安之眼\\.nuget\\packages\\": {}
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\安之眼\\Desktop\\学习\\XstuDotNetLearning\\XstuDotNetLearning\\RabbitMQ-Consumer\\RabbitMQ-Consumer.csproj",
+      "projectUniqueName": "F:\\DotNetProject\\GitHub\\XstuDotNetLearning\\XstuDotNetLearning\\RabbitMQ-Consumer\\RabbitMQ-Consumer.csproj",
       "projectName": "RabbitMQ-Consumer",
-      "projectPath": "C:\\Users\\安之眼\\Desktop\\学习\\XstuDotNetLearning\\XstuDotNetLearning\\RabbitMQ-Consumer\\RabbitMQ-Consumer.csproj",
-      "packagesPath": "C:\\Users\\安之眼\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\安之眼\\Desktop\\学习\\XstuDotNetLearning\\XstuDotNetLearning\\RabbitMQ-Consumer\\obj\\",
+      "projectPath": "F:\\DotNetProject\\GitHub\\XstuDotNetLearning\\XstuDotNetLearning\\RabbitMQ-Consumer\\RabbitMQ-Consumer.csproj",
+      "packagesPath": "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache",
+      "outputPath": "F:\\DotNetProject\\GitHub\\XstuDotNetLearning\\XstuDotNetLearning\\RabbitMQ-Consumer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\安之眼\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\aoyun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://192.168.1.53:8085/nuget": {},
+        "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

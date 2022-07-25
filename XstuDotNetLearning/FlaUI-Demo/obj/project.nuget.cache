@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "rVTV+8OT8odf+1hbIcM/QdCBR3zn0roBmNI1ZTUIcYJunvWX07nsu9Ty/0UZJmOGPQV19JCsLky0MTNWG0l9gw==",
+  "success": true,
+  "projectFilePath": "F:\\DotNetProject\\GitHub\\XstuDotNetLearning\\XstuDotNetLearning\\FlaUI-Demo\\FlaUI-Demo.csproj",
+  "expectedPackageFiles": [
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\flaui.core\\3.2.0\\flaui.core.3.2.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\flaui.uia3\\3.2.0\\flaui.uia3.3.2.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\interop.uiautomationclient\\10.18362.0\\interop.uiautomationclient.10.18362.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\system.diagnostics.performancecounter\\4.7.0\\system.diagnostics.performancecounter.4.7.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\system.management\\4.7.0\\system.management.4.7.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

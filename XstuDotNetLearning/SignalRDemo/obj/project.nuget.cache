@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "5zlpbhnw+7ezoibXzjLHqJHxi9CKryFVX5FZyQkLM3/IwhFS2CaHROpG6/EmmQHMRm+ZQBfNsp0Z39HURNibJA==",
+  "dgSpecHash": "9OHd1Xv4bCrZ8UPz42b+ng8FmA7T7UkvCmL8TaU3QcAH/oxm8n+KsYgmIXg0MDV+DXsEawNIzz0g6R7Iamo5Cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\安之眼\\Desktop\\学习\\XstuDotNetLearning\\XstuDotNetLearning\\SignalRDemo\\SignalRDemo.csproj",
+  "projectFilePath": "F:\\DotNetProject\\GitHub\\XstuDotNetLearning\\XstuDotNetLearning\\SignalRDemo\\SignalRDemo.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\安之眼\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\安之眼\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\安之眼\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\安之眼\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\安之眼\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\安之眼\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],
   "logs": []
 }

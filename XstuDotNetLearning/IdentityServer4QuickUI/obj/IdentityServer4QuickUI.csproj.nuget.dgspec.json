@@ -1,28 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\安之眼\\Desktop\\学习\\XstuDotNetLearning\\XstuDotNetLearning\\IdentityServer4QuickUI\\IdentityServer4QuickUI.csproj": {}
+    "F:\\DotNetProject\\GitHub\\XstuDotNetLearning\\XstuDotNetLearning\\IdentityServer4QuickUI\\IdentityServer4QuickUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\安之眼\\Desktop\\学习\\XstuDotNetLearning\\XstuDotNetLearning\\IdentityServer4QuickUI\\IdentityServer4QuickUI.csproj": {
+    "F:\\DotNetProject\\GitHub\\XstuDotNetLearning\\XstuDotNetLearning\\IdentityServer4QuickUI\\IdentityServer4QuickUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\安之眼\\Desktop\\学习\\XstuDotNetLearning\\XstuDotNetLearning\\IdentityServer4QuickUI\\IdentityServer4QuickUI.csproj",
+        "projectUniqueName": "F:\\DotNetProject\\GitHub\\XstuDotNetLearning\\XstuDotNetLearning\\IdentityServer4QuickUI\\IdentityServer4QuickUI.csproj",
         "projectName": "IdentityServer4QuickUI",
-        "projectPath": "C:\\Users\\安之眼\\Desktop\\学习\\XstuDotNetLearning\\XstuDotNetLearning\\IdentityServer4QuickUI\\IdentityServer4QuickUI.csproj",
-        "packagesPath": "C:\\Users\\安之眼\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\安之眼\\Desktop\\学习\\XstuDotNetLearning\\XstuDotNetLearning\\IdentityServer4QuickUI\\obj\\",
+        "projectPath": "F:\\DotNetProject\\GitHub\\XstuDotNetLearning\\XstuDotNetLearning\\IdentityServer4QuickUI\\IdentityServer4QuickUI.csproj",
+        "packagesPath": "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache",
+        "outputPath": "F:\\DotNetProject\\GitHub\\XstuDotNetLearning\\XstuDotNetLearning\\IdentityServer4QuickUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\安之眼\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\aoyun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://192.168.1.53:8085/nuget": {},
+          "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,6 +60,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -68,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "TPMMeWrLUc8Aw2mlnn2BzjDirCq74iHMISyd4OLYODyshkegn6ZCAZ2XxyrDThzAgNikD+e5hFmJweVfUE8BUQ==",
+  "dgSpecHash": "sA9Ltz+mN2qqwB2nc2ZxtmmqaaxeIDmOrVeFPW1be+MxutoWj9B8anva4AZ8rmzB8GN1lXPXQRt6lFJT+eGQAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\安之眼\\Desktop\\学习\\XstuDotNetLearning\\XstuDotNetLearning\\RabbitMQ-Producer\\RabbitMQ-Producer.csproj",
+  "projectFilePath": "F:\\DotNetProject\\GitHub\\XstuDotNetLearning\\XstuDotNetLearning\\RabbitMQ-Producer\\RabbitMQ-Producer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\安之眼\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
-    "C:\\Users\\安之眼\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\安之眼\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

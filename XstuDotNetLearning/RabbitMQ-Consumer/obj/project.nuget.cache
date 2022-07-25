@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "43IyHe4ZsxbSe70NONV0+e+ZinZcltQVZg9QxeyBjfXxmIrd1CWQAEDDI0Kq3V4JVISAebJ+JJGFeKIupHOP2A==",
+  "dgSpecHash": "+gZ49Rhmc+0z8BZs9KwwfmhZ6X/w1pae/V28IrG3CZNo/egp0zBWE8xGQMof2KKLvihsx8DwJAhLc5yzge9k/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\安之眼\\Desktop\\学习\\XstuDotNetLearning\\XstuDotNetLearning\\RabbitMQ-Consumer\\RabbitMQ-Consumer.csproj",
+  "projectFilePath": "F:\\DotNetProject\\GitHub\\XstuDotNetLearning\\XstuDotNetLearning\\RabbitMQ-Consumer\\RabbitMQ-Consumer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
